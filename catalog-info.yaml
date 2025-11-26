@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: customer-orders-service-1112
+  description: customer-orders-service-1112
+  annotations:
+    github.com/project-slug: /
+spec:
+  type: service
+  owner: team-a
+  lifecycle: experimental
